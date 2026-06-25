@@ -21,7 +21,7 @@
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **10ml Syringes (No Needle)** | [10ml 100-Pack ($18.99)](https://a.co/d/0fTm8chi) | `$19` |
-| **20ml Syringes (No Needle)** | [20ml 20-Pack ($9.99)](https://a.co/d/00VKdUnr) | `$10` |
+| **20ml Syringes (w/ Needles)** | [20ml 20-Pack ($9.99)](https://a.co/d/00VKdUnr) | `$10` |
 | **30ml Syringes (No Needle)** | [30ml 50-Pack ($19.99)](https://a.co/d/04lXfmeO) | `$20` |
 | **16G 1.5" Needles** | [16G 1.5" 150-Pack ($7.99)](https://a.co/d/0gtlVYno) | `$8` |
 | **16G 5" Extra Long Needles** | [16G 5" Extra Long ($6.50)](https://a.co/d/0jk922LS) | `$7` |
