@@ -41,3 +41,5 @@ This repository contains the complete hardware build notes and sterile workflows
 
 ## Phase 8: Genetics and Preservation
 22. [Cloning to Agar](docs/22_cloning_to_agar.md)
+23. [Spore Collection](docs/23_spore_collection.md)
+24. [Long-Term Preservation](docs/24_long_term_preservation.md)

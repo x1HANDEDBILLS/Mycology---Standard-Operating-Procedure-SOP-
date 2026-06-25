@@ -1,0 +1,21 @@
+# 23 - Spore Collection
+
+Spores are nature's long-term storage. Unlike live mycelium, spores can survive extreme conditions and last for years. Collecting spores ensures you always have a genetic backup of your harvest.
+
+## Method A: Spore Prints
+*Spore prints are ideal for mushrooms with flat caps that drop heavy spore loads.*
+1.  Select a mature mushroom where the veil has completely broken.
+2.  Inside the Still Air Box (SAB), use a sterile scalpel to cut the cap off the stem as close to the gills as possible.
+3.  Place a piece of heavy-duty aluminum foil (wiped with alcohol and dried) flat on your SAB surface.
+4.  Place the mushroom cap, gills facing down, onto the foil.
+5.  Cover the cap with a clean glass or small tupperware container to prevent any air movement.
+6.  Wait 12 to 24 hours.
+7.  Remove the glass and carefully lift the cap. You will see a dark print on the foil.
+8.  Fold the foil over to protect the print, place it inside a ziplock bag, and store it in a cool, dark, dry place. It will last for years.
+
+## Method B: Spore Swabs
+*Swabs are necessary for specific mutant strains or mushrooms that do not naturally drop spores well.*
+1.  Inside the SAB, open a pack of sterile medical cotton swabs (Q-tips).
+2.  Hold the mature mushroom cap securely.
+3.  Take the sterile swab and firmly rub it between the gills of the mushroom until the cotton tip is visibly dark with spores.
+4.  Place the swab back into its sterile plastic tube or wrapper, seal it, and store it in a cool, dry place.
