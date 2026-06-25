@@ -1,4 +1,4 @@
-# 15 - Fruiting Conditions
+# 16 - Fruiting Conditions
 
 ## Environment
 * **Location:** A darkish area (like a closet) is perfect. 

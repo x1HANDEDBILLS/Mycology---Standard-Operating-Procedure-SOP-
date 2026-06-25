@@ -22,12 +22,13 @@ This repository contains the complete hardware build notes and sterile workflows
 
 ## Phase 4: Sterile Operations
 11. [Still Air Box Workflow](docs/11_still_air_box_workflow.md)
-12. [Liquid Culture Operations](docs/12_liquid_culture_operations.md)
-13. [Inoculation Procedures](docs/13_inoculation_procedures.md)
+12. [Agar Operations](docs/12_agar_operations.md)
+13. [Liquid Culture Operations](docs/13_liquid_culture_operations.md)
+14. [Grain Spawn Operations](docs/14_grain_spawn_operations.md)
 
 ## Phase 5: Cultivation
-14. [Spawning to Bulk](docs/14_spawning_to_bulk.md)
-15. [Fruiting Conditions](docs/15_fruiting_conditions.md)
+15. [Spawning to Bulk](docs/15_spawning_to_bulk.md)
+16. [Fruiting Conditions](docs/16_fruiting_conditions.md)
 
 ## Phase 6: Harvest and Processing
-16. [Harvesting and Drying](docs/16_harvesting_and_drying.md)
+17. [Harvesting and Drying](docs/17_harvesting_and_drying.md)
