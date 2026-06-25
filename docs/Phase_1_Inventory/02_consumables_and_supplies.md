@@ -10,32 +10,32 @@
 
 ### 🌾 Substrate & Grain
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Popcorn** | Yellow popping corn, 4 lbs (2x 2lb bags) | `$5` |
-| **Coco Coir** | Loose fill bag preferred (e.g., FloraFlex 50L) | `$25` |
-| **Corn Syrup** | Light corn syrup with real vanilla (LC/Grain hydrate) | `$3` |
+| **Popcorn** | [Walmart ($2/bag)](https://www.walmart.com/ip/Great-Value-Yellow-Popping-Corn-32-oz) <br> *(2 Bags is about $5)* | `$5` |
+| **Coco Coir** | [Amazon Option 1 ($24)](https://a.co/d/dAOgFGD) <br> [Amazon Option 2 ($15)](https://a.co/d/2VTN6x5) <br> [FloraFlex Recommended ($25)](https://floraflex.com) *(Loose fill)* | `$15 - $25` |
+| **Corn Syrup** | [Walmart ($3)](https://www.walmart.com/ip/Karo-Light-Corn-Syrup-with-Real-Vanilla-16-Fl-Oz) - Karo Light with Real Vanilla | `$3` |
 
 ### 🧫 Agar & Liquid Culture Media
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Agar Powder** | Telephone brand or laboratory grade | `$12` |
-| **LME** | Extra Light Malt Extract | `$12` |
-| **Food Coloring** | Optional (For visualizing mycelium contrast) | `$5` |
+| **Agar Powder** | [Amazon ($12)](https://a.co/d/0dbA6E4) | `$12` |
+| **LME** | [Amazon ($12)](https://a.co/d/d9MSV5m) - Extra Light Malt Extract | `$12` |
+| **Food Coloring** | [Amazon ($5)](https://a.co/d/iNRwMRm) *(Optional)* | `$5` |
 
 ### 🔬 Sterile Lab Supplies
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Syringes & Needles** | 10cc/20cc luer lock syringes with 18-gauge needles | `$15` |
-| **Filter Patches** | Adherable 0.3 micron synthetic filters | `$10 - $20` |
-| **Injection Ports** | Self-healing rubber stoppers | `$7` |
-| **Portion Cups** | 3.25oz ketchup cups for no-pour agar | `$8` |
-| **Cheese Cloth** | Optional (For straining agar media) | `$6` |
-| **Scalpel Blades** | Sterile, individually wrapped #11 blades | `$10` |
-| **Isopropyl Alcohol** | 70% concentration only (90% flashes off too fast) | `$3` |
-| **PPE Gloves** | Nitrile or latex, powder-free | `$12` |
+| **Jar Lids** | [Amazon ($10)](https://a.co/d/5n3eZBS) | `$10` |
+| **Filter Patches** | [Amazon ($12)](https://a.co/d/ejEqh9e) <br> [Microppose ($12-$20)](https://mycologysimplified.com) *(Better option)* | `$12 - $20` |
+| **Injection Ports** | [Amazon ($7)](https://a.co/d/5wEVesF) *(Optional, for LC/syringes)* | `$7` |
+| **Portion Cups** | [Amazon ($8)](https://a.co/d/1zgew1J) - 3.25oz Cups | `$8` |
+| **Cheese Cloth** | [Amazon ($6)](https://a.co/d/e7xzebV) *(Optional, for straining agar)* | `$6` |
+| **Isopropyl Alcohol** | [Walmart ($3)](https://www.walmart.com/ip/Equate-70-Isopropyl-Alcohol-Antiseptic-32-fl-oz) - 70% Concentration ONLY | `$3` |
+| **PPE Gloves** | [Amazon ($12)](https://a.co/d/eHLnvZG) | `$12` |
+| **Arm Sleeves** | [Amazon ($7)](https://a.co/d/htLFEHT) *(Optional)* | `$7` |
 
 <br>
 

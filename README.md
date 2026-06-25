@@ -6,7 +6,10 @@
 ---
 
 > [!NOTE]
-> **Welcome to the Lab.** This repository contains the complete hardware build notes and sterile workflows required to go from a single microscopic spore to a full canopy harvest.
+> **Welcome to the Lab.** 
+> This is a full guide, taking the challenge head-on with every detail explained. This will show you how to get good results with little effort but a bit more money. I prefer a simple and easy method of cultivating. I try to stay on the cheap side as much as I can, but some extra costs are recommended for success. 
+>
+> We start with a list of items and costs on how we will approach our end goal. Some prices may vary by region and time. This guide is mainly aimed towards the United States, where most of these products are easily found.
 
 ### 📦 Phase 1: Inventory
 * 🛠️ [Hardware and Tools](docs/Phase_1_Inventory/01_hardware_and_tools.md)

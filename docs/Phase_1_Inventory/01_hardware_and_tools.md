@@ -6,40 +6,39 @@
 ---
 
 > [!TIP]
-> These are your permanent, one-time investments required to establish your laboratory and fruiting environments. Buy quality once.
+> These are your permanent, one-time investments required to establish your laboratory and fruiting environments. Buy quality once. An oven burner and drill are assumed as common household items.
 
 ### 🏭 Main Equipment
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Pressure Cooker** | Presto 16-Quart or 23-Quart (Essential for sterilization) | `$90 - $125` |
-| **Still Air Box (SAB)** | Pre-built or DIY Sterilite tub | `$35 - $40` |
-| **Dehydrator** | Any standard food dehydrator (Commercial preferred) | `$250` |
-| **Magnetic Stir Plate** | Essential for liquid culture agitation | `$25 - $40` |
-| **Gram Scale** | For precision agar and nutrient measurements | `$18` |
-| **Propane Torch** | Coleman 16oz or similar (Tool sterilization) | `$10` |
-| **Wire Rack** | Cabinet shelf organizer to elevate work inside SAB | `$10` |
+| **Pressure Cooker** | [Amazon ($125)](https://a.co/d/j53a9h3) <br> [Walmart ($90) - Cheaper](https://www.walmart.com/ip/Presto-16-Quart-Pressure-Canner-and-Cooker-01745) <br> *Get the 23Qt version if available!* | `$90 - $125` |
+| **Still Air Box (SAB)** | [Amazon Option 1 ($40)](https://a.co/d/2mSIzbj) <br> [Amazon Option 2 ($35)](https://a.co/d/dDdHnlo) <br> *(Or DIY with a Sterilite tub)* | `$35 - $40` |
+| **Dehydrator** | [Amazon ($250)](https://a.co/d/bMEWn0t) <br> *(Overkill but highly recommended)* | `$250` |
+| **Magnetic Stir Plate** | [Standard Option ($25)](https://a.co/d/5HjRuxP) <br> [Better Recommended Option ($40)](https://a.co/d/fTSbNsX) | `$25 - $40` |
+| **Gram Scale** | [Amazon ($18)](https://a.co/d/9V6Ih4j) | `$18` |
+| **Propane Torch** | [Walmart ($10) - Coleman 16oz](https://www.walmart.com/ip/Coleman-All-Purpose-Propane-Gas-Cylinder-16oz) <br> *(Or use an alcohol burner/induction coil)* | `$10` |
+| **Wire Rack** | [Walmart ($10)](https://www.walmart.com/ip/YBM-Home-White-Wire-Cabinet-Helper-Shelf) <br> *(Raises work area 4" inside SAB)* | `$10` |
 
 ### 🫙 Containers & Substrate Housing
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Mason Jars** | Wide Mouth Quart / 32 oz (Box of 12) | `$16` |
-| **Media Bottle** | 500ml Borosilicate glass for pouring agar | `$11` |
-| **Fruiting Tub** | Sterilite 27 Qt Clear Plastic Latching Box | `$8` |
-| **Pasteurization Bucket** | 5-Gallon bucket with a heavy-duty sealing lid | `$10` |
+| **Mason Jars** | [Walmart ($16)](https://www.walmart.com/ip/Ball-67000-Wide-Mouth-Mason-Jars-Quart-32-Oz-Box-of-12) - Wide Mouth Quart (Box of 12) | `$16` |
+| **Media Bottle** | [Amazon 1x Bottle ($11)](https://a.co/d/7j7Nys0) <br> [Amazon 2x Bottles ($18)](https://a.co/d/6ESclav) - 500ml | `$11 - $18` |
+| **Fruiting Tub** | [Walmart ($8)](https://www.walmart.com/ip/Sterilite-27-Qt-Clear-Plastic-Latching-Box) - Sterilite 27 Qt | `$8` |
+| **Pasteurization Bucket**| Hardware Store - 5-Gallon with good sealing lid | `$10` |
 
 ### 🔪 Tools & Hardware
 
-| Item | Description | Est. Cost |
+| Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Strainers** | Large multi-use colander (Buy 2) | `$10` |
-| **Fine Mist Sprayer** | Aerosol-style mister for substrate hydration | `$15` |
-| **Standard Sprayer** | Heavy duty spray bottle for 70% Iso Alcohol | `$5` |
-| **Step Drill Bit** | For drilling tub plastic without cracking | `$7` |
-| **Standard Drill Bits** | 1/4-inch and 7/16-inch for jar lids | `$5` |
-| **Scalpel Handle** | Standard #3 medical handle | `$7` |
-| **Tweezers** | Long, fine-point stainless steel | `$5` |
+| **Strainers** | [Walmart ($10)](https://www.walmart.com/ip/Mainstays-SS-5QT-Multi-Use-Colander) <br> *(Recommend buying 2 just in case)* | `$10` |
+| **Standard/Fine Sprayer** | [Amazon ($15) - Fine Mist & Alcohol](https://a.co/d/a3TlJiL) | `$15` |
+| **Step Drill Bit** | [Amazon ($7)](https://a.co/d/fJU3Be7) <br> *(Specifically the bit on the right side of picture)* | `$7` |
+| **Standard Drill Bits** | [1/4-Inch Bit ($2)](https://a.co/d/g4bTnsF) <br> [7/16-Inch Bit ($5)](https://a.co/d/38MjQng) | `$2 - $5` |
+| **Scalpel Handle** | [Amazon ($7)](https://a.co/d/2GE9cLn) | `$7` |
+| **Tweezers** | [Amazon ($5)](https://a.co/d/hjM0L3o) | `$5` |
 
 <br>
 
