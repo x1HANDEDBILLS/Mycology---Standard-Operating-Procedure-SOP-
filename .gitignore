@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python & Environment control scripts (Mycodo, Raspberry Pi, etc.)
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Network/Security (Never upload passwords or IP configs)
+.env
+*_config.json
+*.key
