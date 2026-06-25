@@ -9,7 +9,7 @@ This repository contains the complete hardware build notes and sterile workflows
 2. [Consumables and Supplies](docs/02_consumables_and_supplies.md)
 
 ## Phase 2: Hardware Assembly
-3. [Jar Lid Assembly](docs/03_jar_lid_assembly.md)
+3. [Grain and LC Lid Assembly](docs/03_grain_and_lc_lid_assembly.md)
 4. [Fruiting Tub Assembly](docs/04_fruiting_tub_assembly.md)
 
 ## Phase 3: Material Preparation
@@ -26,9 +26,13 @@ This repository contains the complete hardware build notes and sterile workflows
 13. [Liquid Culture Operations](docs/13_liquid_culture_operations.md)
 14. [Grain Spawn Operations](docs/14_grain_spawn_operations.md)
 
-## Phase 5: Cultivation
-15. [Spawning to Bulk](docs/15_spawning_to_bulk.md)
-16. [Fruiting Conditions](docs/16_fruiting_conditions.md)
+## Phase 5: Incubation & Quality Control
+15. [Incubation and Quality Control](docs/15_incubation_and_quality_control.md)
 
-## Phase 6: Harvest and Processing
-17. [Harvesting and Drying](docs/17_harvesting_and_drying.md)
+## Phase 6: Cultivation
+16. [Spawning to Bulk](docs/16_spawning_to_bulk.md)
+17. [Fruiting Conditions](docs/17_fruiting_conditions.md)
+
+## Phase 7: Harvest and Genetics
+18. [Harvesting and Drying](docs/18_harvesting_and_drying.md)
+19. [Cloning to Agar](docs/19_cloning_to_agar.md)

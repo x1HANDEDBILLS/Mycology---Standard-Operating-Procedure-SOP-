@@ -8,11 +8,6 @@ Liquid culture takes a small, clean piece of mycelium from an agar plate and mul
 3.  Swiftly open the lid of your sterilized LC jar, drop the agar wedge inside, and seal the lid immediately.
 4.  Place the jar on your magnetic stir plate for 5 minutes to break up the mycelium wedge. 
 
-## Incubation
-1.  Store the jar in a dark room at 70°F - 75°F.
-2.  Run the jar on the magnetic stir plate for **10 minutes every day**. This breaks the mycelium up and forces it to multiply aggressively rather than forming a single solid puck.
-3.  It should be fully colonized and cloudy with mycelium in about 10 to 14 days.
-
 ## Extraction and Testing (Mandatory)
 *Never inject grain with LC until you have tested it on agar to ensure it is 100% clean.*
 1.  Inside the SAB, wipe the injection port of the LC jar with an alcohol wipe.

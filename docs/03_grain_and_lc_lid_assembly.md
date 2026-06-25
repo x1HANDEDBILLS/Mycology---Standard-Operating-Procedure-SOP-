@@ -1,4 +1,4 @@
-# 03 - Jar Lid Assembly
+# 03 - Grain and LC Lid Assembly
 
 ## Layout Options
 * **Filter Only:** If using cheaper filter patches, drill 2 air exchange holes and use 2 patches. If using name-brand Microppose filters, 1 filter is all that is needed.
