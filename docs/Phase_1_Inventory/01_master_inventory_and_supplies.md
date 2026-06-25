@@ -80,8 +80,8 @@
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Mason Jars** | [Quart Jars Box of 12 ($16)](https://www.walmart.com/ip/Ball-67000-Wide-Mouth-Mason-Jars-Quart-32-Oz-Box-of-12) | `$16` |
-| **Metal Lids** | [Wide Mouth Lids 24-Pack ($14.99)](https://a.co/d/09DEpJ5I) <br> [Standard Lids ($10)](https://a.co/d/5n3eZBS) | `$10 - $15` |
-| **Filter Patches** | [North Spore 0.22um ($11.00)](https://a.co/d/03V0JTGR) <br> [Microppose Monotub Disks ($8.99)](https://a.co/d/04rrLJjG) <br> [Microppose Adherables ($12)](https://a.co/d/ejEqh9e) | `$9 - $12` |
+| **Plastic Lids** | [Wide Mouth Lids 24-Pack ($14.99)](https://a.co/d/09DEpJ5I) <br> [Standard Lids ($10)](https://a.co/d/5n3eZBS) | `$10 - $15` |
+| **Filter Patches** | [North Spore 0.22um ($11.00)](https://a.co/d/03V0JTGR) <br> [Microppose Monotub Disks ($8.99)](https://a.co/d/04rrLJjG) | `$9 - $11` |
 | **Injection Ports** | [Microppose Self Healing ($9.89)](https://a.co/d/08NyJCOP) <br> [Amazon Standard ($7)](https://a.co/d/5wEVesF) | `$7 - $10` |
 
 ### 🧫 Agar Ingredients & Disposables (Consumable)
