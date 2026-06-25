@@ -72,8 +72,8 @@
 | :--- | :--- | :--- |
 | **Syringe Filters** | [PTFE 0.22 um 25/pk ($11.19)](https://a.co/d/01TPMmjV) | `$11` |
 | **Silicone Tubing** | [1/4" ID Food Grade ($9.99)](https://a.co/d/00E02ECo) | `$10` |
-| **Luer Lock Caps** | [100pcs Male Caps ($28.99)](https://a.co/d/0fGNVR7E) | `$29` |
-| **Luer Adapters (Barbs)** | [Male Barb 25x ($12.06)](https://a.co/d/05auiGRh) <br> [Female Barb 25x ($13.21)](https://a.co/d/0fnJBOQa) <br> [Tubing Adapter Cap 25x ($5.99)](https://a.co/d/0dzVRYjB) | `$6 - $13` |
+| **Luer Lock Caps** | [100pcs Male Caps ($28.99)](https://a.co/d/0fGNVR7E) <br> [25pcs Male Caps ($5.99)](https://a.co/d/0dzVRYjB) | `$6 - $29` |
+| **Luer Adapters (Barbs)** | [Male Barb 25x ($12.06)](https://a.co/d/05auiGRh) <br> [Female Barb 25x ($13.21)](https://a.co/d/0fnJBOQa) | `$12 - $13` |
 | **Stopcocks** | [2-Way Luer 6pcs ($9.90)](https://a.co/d/0fgj80GO) | `$10` |
 
 ### 🫙 Jar & Tub Mod Supplies (Consumable)
