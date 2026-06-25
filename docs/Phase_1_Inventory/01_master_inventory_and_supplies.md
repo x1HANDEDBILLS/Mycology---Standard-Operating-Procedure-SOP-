@@ -15,7 +15,7 @@
 | **Still Air Box (SAB)** | [Amazon Option 1 ($40)](https://a.co/d/2mSIzbj) <br> [Amazon Option 2 ($35)](https://a.co/d/dDdHnlo) <br> *(Or DIY with a Sterilite tub)* | `$35 - $40` |
 | **Wire Rack (SAB Insert)** | Walmart ($10) <br> *(Raises work area 4" inside SAB)* | `$10` |
 | **Dehydrator** | [Amazon ($250)](https://a.co/d/bMEWn0t) <br> *(Overkill but highly recommended)* | `$250` |
-| **Gram Scale** | [Amazon ($18)](https://a.co/d/9V6Ih4j) | `$18` |
+| **Milligram Scale** | [Amazon ($18.99)](https://a.co/d/06oHd8TC) - 0.001g Precision | `$19` |
 
 ### 💉 Syringes & Needles
 *The sterile transport tools for moving LC and spores.*
@@ -51,10 +51,10 @@
 | **Standard Drill Bits** | [1/4-Inch Bit ($2)](https://a.co/d/g4bTnsF) <br> [7/16-Inch Bit ($5)](https://a.co/d/38MjQng) | `$2 - $5` |
 
 ### 🧰 Fruiting Tub Hardware
-*Hardware specifically for modifying 27qt bins for fruiting conditions.*
+*Hardware specifically for modifying bins for fruiting conditions.*
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Fruiting Tub** | Walmart ($8) - Sterilite 27 Qt | `$8` |
+| **Fruiting Tub** | Walmart ($8) - Sterilite 27 Qt <br> [Amazon 4-Pack ($79.99)](https://a.co/d/04SNM4Df) - IRIS 32 Qt WeatherPro | `$8 - $80` |
 | **Tub Filters** | [Microppose Monotub Disks ($8.99)](https://a.co/d/04rrLJjG) | `$9` |
 | **Step Drill Bits** | [Amazon Standard ($7.99)](https://a.co/d/04CqA56Y) <br> [Amazon Large 2" ($29.95)](https://a.co/d/08NUuZLs) | `$8 - $30` |
 
