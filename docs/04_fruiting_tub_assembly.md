@@ -1,4 +1,4 @@
-# 03 - Fabricate Fruiting Tubs
+# 04 - Fruiting Tub Assembly
 
 **Required Tool:** Step Bit. A normal drill bit will crack the 27 Qt Sterilite tub.
 **Total Holes:** 10

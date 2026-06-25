@@ -1,4 +1,4 @@
-# 04 - Pressure Cooker Baseline Operation
+# 05 - Pressure Cooker Operation
 
 **Warning:** Running out of water will permanently warp the pressure cooker. Always ensure correct heat balance.
 

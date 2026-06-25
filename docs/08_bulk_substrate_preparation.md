@@ -1,4 +1,4 @@
-# 07 - Prep Bulk Substrate (Bucket Tek)
+# 08 - Bulk Substrate Preparation
 
 *Using FloraFlex loose fill coco coir (already fluffy out of the bag).*
 
