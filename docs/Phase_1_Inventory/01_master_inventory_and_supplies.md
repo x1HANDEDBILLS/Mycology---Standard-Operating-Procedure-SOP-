@@ -11,9 +11,9 @@
 ### 🏭 Main Equipment & Environment Control
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Pressure Cooker** | [Amazon ($125)](https://a.co/d/j53a9h3) <br> [Walmart ($90) - Cheaper](https://www.walmart.com/ip/Presto-16-Quart-Pressure-Canner-and-Cooker-01745) <br> *Get the 23Qt version if available!* | `$90 - $125` |
+| **Pressure Cooker** | [Amazon ($125)](https://a.co/d/j53a9h3) <br> Walmart ($90) - Cheaper <br> *Get the 23Qt version if available!* | `$90 - $125` |
 | **Still Air Box (SAB)** | [Amazon Option 1 ($40)](https://a.co/d/2mSIzbj) <br> [Amazon Option 2 ($35)](https://a.co/d/dDdHnlo) <br> *(Or DIY with a Sterilite tub)* | `$35 - $40` |
-| **Wire Rack (SAB Insert)** | [Walmart ($10)](https://www.walmart.com/ip/YBM-Home-White-Wire-Cabinet-Helper-Shelf) <br> *(Raises work area 4" inside SAB)* | `$10` |
+| **Wire Rack (SAB Insert)** | Walmart ($10) <br> *(Raises work area 4" inside SAB)* | `$10` |
 | **Dehydrator** | [Amazon ($250)](https://a.co/d/bMEWn0t) <br> *(Overkill but highly recommended)* | `$250` |
 | **Gram Scale** | [Amazon ($18)](https://a.co/d/9V6Ih4j) | `$18` |
 
@@ -44,7 +44,7 @@
 *Hardware specifically for creating high-airflow lids for grain spawn.*
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Mason Jars** | [Quart Jars Box of 12 ($16)](https://www.walmart.com/ip/Ball-67000-Wide-Mouth-Mason-Jars-Quart-32-Oz-Box-of-12) | `$16` |
+| **Mason Jars** | Quart Jars Box of 12 ($16) - Walmart | `$16` |
 | **Plastic Lids** | [Wide Mouth Lids 24-Pack ($14.99)](https://a.co/d/09DEpJ5I) <br> [Standard Lids ($10)](https://a.co/d/5n3eZBS) | `$10 - $15` |
 | **Filter Patches** | [Microppose Adherable 0.3um ($7.50)](https://microppose.com/products/adherable-lid-filters-for-plant-mushroom-tissue-culture-22-micron-fits-1-4-hole) | `$7.50` |
 | **Injection Ports** | [Microppose Self Healing ($9.89)](https://a.co/d/08NyJCOP) <br> [Amazon Standard ($7)](https://a.co/d/5wEVesF) | `$7 - $10` |
@@ -54,7 +54,7 @@
 *Hardware specifically for modifying 27qt bins for fruiting conditions.*
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Fruiting Tub** | [Walmart ($8)](https://www.walmart.com/ip/Sterilite-27-Qt-Clear-Plastic-Latching-Box) - Sterilite 27 Qt | `$8` |
+| **Fruiting Tub** | Walmart ($8) - Sterilite 27 Qt | `$8` |
 | **Tub Filters** | [Microppose Monotub Disks ($8.99)](https://a.co/d/04rrLJjG) | `$9` |
 | **Step Drill Bits** | [Amazon Standard ($7.99)](https://a.co/d/04CqA56Y) <br> [Amazon Large 2" ($29.95)](https://a.co/d/08NUuZLs) | `$8 - $30` |
 
@@ -70,24 +70,24 @@
 | **Cheese Cloth** | [Amazon ($5.49)](https://a.co/d/0iEY2zZl) *(For straining agar)* | `$5` |
 | **Scalpel Kit** | [Amazon ($6.89)](https://a.co/d/02v28g0o) - Handle with 20 sterile #11 blades | `$7` |
 | **Tweezers** | [Amazon ($5)](https://a.co/d/hjM0L3o) | `$5` |
-| **Propane Torch** | [Walmart ($10) - Coleman 16oz](https://www.walmart.com/ip/Coleman-All-Purpose-Propane-Gas-Cylinder-16oz) | `$10` |
+| **Propane Torch** | Walmart ($10) - Coleman 16oz | `$10` |
 
 ### 🌾 Grain Spawn & Bulk Substrate
 *Raw materials and processing gear for grain and coco coir.*
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Popcorn** | [Walmart ($2/bag)](https://www.walmart.com/ip/Great-Value-Yellow-Popping-Corn-32-oz) <br> *(2 Bags is about $5)* | `$5` |
-| **Corn Syrup** | [Walmart ($3)](https://www.walmart.com/ip/Karo-Light-Corn-Syrup-with-Real-Vanilla-16-Fl-Oz) - Karo Light with Real Vanilla | `$3` |
+| **Popcorn** | Walmart ($2/bag) <br> *(2 Bags is about $5)* | `$5` |
+| **Corn Syrup** | Walmart ($3) - Karo Light with Real Vanilla | `$3` |
 | **Coco Coir** | [Amazon Option 1 ($24)](https://a.co/d/dAOgFGD) <br> [Amazon Option 2 ($15)](https://a.co/d/2VTN6x5) | `$15 - $24` |
 | **Gypsum** | [Amazon ($14.95)](https://a.co/d/0j1rgXUo) - Ultra-Fine Lab Grade | `$15` |
 | **Pasteurization Bucket**| Hardware Store - 5-Gallon with good sealing lid | `$10` |
-| **Strainers** | [Walmart ($10)](https://www.walmart.com/ip/Mainstays-SS-5QT-Multi-Use-Colander) <br> *(Recommend buying 2 just in case)* | `$10` |
+| **Strainers** | Walmart ($10) <br> *(Recommend buying 2 just in case)* | `$10` |
 | **Standard/Fine Sprayer** | [Amazon ($15) - Fine Mist & Alcohol](https://a.co/d/a3TlJiL) | `$15` |
 
 ### 🧼 Personal Protective Equipment (PPE) & Cleaners
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
-| **Isopropyl Alcohol** | [Walmart ($3)](https://www.walmart.com/ip/Equate-70-Isopropyl-Alcohol-Antiseptic-32-fl-oz) - 70% Concentration ONLY | `$3` |
+| **Isopropyl Alcohol** | Walmart ($3) - 70% Concentration ONLY | `$3` |
 | **Face Masks** | [Black 3-Ply 100-Pack ($7.58)](https://a.co/d/0cFQmu6e) | `$8` |
 | **Nitrile Gloves** | [ForPro Black 100-Pack ($11.99)](https://a.co/d/0j0gm9H6) <br> [Amazon Standard ($12)](https://a.co/d/eHLnvZG) | `$12` |
 | **Heat Gloves** | [ANBOSON BBQ Gloves ($19.27)](https://a.co/d/02SPdTyV) *(For hot PC handling)* | `$19` |
