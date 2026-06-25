@@ -36,6 +36,8 @@ This repository contains the complete hardware build notes and sterile workflows
 19. [Spawning to Bulk](docs/19_spawning_to_bulk.md)
 20. [Fruiting Conditions](docs/20_fruiting_conditions.md)
 
-## Phase 7: Harvest and Genetics
+## Phase 7: Harvest and Processing
 21. [Harvesting and Drying](docs/21_harvesting_and_drying.md)
+
+## Phase 8: Genetics and Preservation
 22. [Cloning to Agar](docs/22_cloning_to_agar.md)
