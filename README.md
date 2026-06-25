@@ -25,7 +25,7 @@ This repository contains the complete hardware build notes and sterile workflows
 12. [Still Air Box Workflow](docs/12_still_air_box_workflow.md)
 13. [Agar Operations](docs/13_agar_operations.md)
 14. [Liquid Culture Operations](docs/14_liquid_culture_operations.md)
-15. [Grain Spawn Operations](docs/15_grain_spawn_operations.md)
+15. [Expanding Grain Operations](docs/15_expanding_grain_operations.md)
 
 ## Phase 5: Incubation & Quality Control
 16. [Agar Incubation](docs/16_agar_incubation.md)

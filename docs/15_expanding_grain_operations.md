@@ -1,9 +1,9 @@
-# 15 - Grain Spawn Operations
+# 15 - Expanding Grain Operations
 
-This is the process of introducing your clean mycelium (either via agar wedges or liquid culture) into your sterilized popcorn jars.
+This is the process of introducing clean mycelium into sterilized popcorn jars to create spawn, and multiplying existing spawn to scale up your operation.
 
 ## Pre-Inoculation Checklist
-* Grain jars have rested for 1 week and show no signs of internal contamination.
+* Receiving grain jars have rested for 1 week and show no signs of internal contamination.
 * SAB has been prepped, sprayed, and rested for 30 minutes.
 * Tools have been sterilized via torch (glowing red) and cooled.
 
@@ -22,3 +22,13 @@ This is the process of introducing your clean mycelium (either via agar wedges o
 3.  Pierce the injection port and inject **1.5cc to 2cc** of liquid culture directly into the grain.
 4.  Withdraw the needle. The self-healing port will seal itself.
 5.  Shake the jar well to coat as many kernels as possible with the liquid culture.
+
+## Method C: Grain-to-Grain (G2G) Transfer
+*Use one fully colonized "Master Jar" to inoculate up to 10 brand-new, sterile grain jars. This creates explosive, exponential growth.*
+1.  Before entering the SAB, vigorously break and shake your fully colonized Master Jar so all the kernels are loose.
+2.  Inside the SAB, slightly loosen the lids of the Master Jar and your sterile receiving jars.
+3.  Take the lid off the first receiving jar and the Master Jar.
+4.  Carefully pour a small amount (roughly 1 to 2 tablespoons) of colonized grain from the Master Jar directly into the receiving jar. 
+5.  Quickly replace both lids. 
+6.  Repeat for remaining receiving jars. 
+7.  Once finished, tighten all receiving jar lids and shake them well to distribute the colonized kernels evenly among the sterile kernels.
