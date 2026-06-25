@@ -1,4 +1,4 @@
-# 12 - Agar Operations
+# 13 - Agar Operations
 
 Agar is a 2D growing plane used to germinate spores, verify liquid culture purity, and isolate strong mycelial growth away from contamination. All work must be performed inside the Still Air Box (SAB).
 

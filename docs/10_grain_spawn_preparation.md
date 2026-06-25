@@ -1,4 +1,4 @@
-# 09 - Grain Spawn Preparation
+# 10 - Grain Spawn Preparation
 
 *Recipe yields exactly 6 Quart jars.*
 
@@ -16,7 +16,7 @@
 3.  The outside of the grain must be dry. You should have no water on your hand when you mix it up. (Expect 90 minutes and 3 tosses).
 
 ## Sterilizing the Jars
-1.  Jar up the popcorn. Close lids fully and tight (no foil needed).
+1.  Jar up the popcorn. Close your assembled grain lids fully and tight (no foil needed).
 2.  Place jars in the PC raised off the bottom with a trivet (use 1/2 inch bolts under the trivet for extra room).
 3.  Add 16 cups of water to the PC.
 4.  Vent for 10 minutes. Pressure cook for **2 hours @ 15 psi**.

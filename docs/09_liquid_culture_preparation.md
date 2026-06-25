@@ -1,4 +1,4 @@
-# 08 - Liquid Culture Preparation
+# 09 - Liquid Culture Preparation
 
 *Liquid Culture (LC) allows you to turn a small piece of mycelium into dozens of syringes of rapid-colonizing fluid.*
 
@@ -9,7 +9,7 @@
 4.  Stir vigorously until the syrup is completely dissolved in the water. 
 
 ## Bottling and Sterilizing
-1.  Attach your modified jar lid (Must have an injection port and a filter patch).
+1.  Attach your assembled LC jar lid (Must have an injection port and a filter patch).
 2.  Ensure the lid is closed securely. You do not want PC water boiling into your nutrient solution.
 3.  Place the jar in the pressure cooker on a trivet.
 4.  Vent for 10 minutes, apply the weight, and pressure cook on low for **20 minutes @ 15 psi**.

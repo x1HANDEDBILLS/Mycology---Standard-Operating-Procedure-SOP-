@@ -1,4 +1,4 @@
-# 05 - PC Calibration and Water Test
+# 06 - PC Calibration and Water Test
 
 Before risking your materials in a live run, perform a blank water test. This establishes a baseline calibration for your specific stove and helps you understand the thermal mass and equilibrium of the pressure cooker.
 

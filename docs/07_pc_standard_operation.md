@@ -1,4 +1,4 @@
-# 06 - PC Standard Operation
+# 07 - PC Standard Operation
 
 **Warning:** Running out of water will permanently warp the pressure cooker. Never bypass the venting protocol.
 

@@ -1,10 +1,10 @@
-# 16 - Spawning to Bulk
+# 19 - Spawning to Bulk
 
 *PPE Recommended: Face mask and alcohol-sterilized gloves. Showering prior is highly recommended.*
 
 ## Tub Preparation
 1.  Wipe out the inside of the 27qt tub and lid with alcohol. Let sit for a minute and dry.
-2.  Dump **2 colonized grain jars** into the tub (Approx. a 1:3 ratio of grain to coco).
+2.  Dump **2 fully colonized grain jars** into the tub (Approx. a 1:3 ratio of grain to coco).
 
 ## Achieving Field Capacity (The Sponge Test)
 1.  Open the 5-gal bucket of pasteurized coco. Grab a handful at a time.

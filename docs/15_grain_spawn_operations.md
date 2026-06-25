@@ -1,4 +1,4 @@
-# 14 - Grain Spawn Operations
+# 15 - Grain Spawn Operations
 
 This is the process of introducing your clean mycelium (either via agar wedges or liquid culture) into your sterilized popcorn jars.
 

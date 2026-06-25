@@ -1,0 +1,17 @@
+# 17 - Liquid Culture Incubation
+
+Liquid culture requires active daily maintenance to prevent the mycelium from forming a single, unusable clump.
+
+## The Environment
+* **Temperature:** Maintain a steady **70°F to 75°F**. (Temperatures above 80°F in a liquid medium drastically increase the chance of sudden bacterial blooms).
+* **Storage:** Keep the jar in a dark space when not actively stirring.
+
+## Daily Maintenance (Stirring)
+1.  Place the jar on your magnetic stir plate for **10 minutes every single day**. 
+2.  The goal is to physically break the mycelium up into thousands of microscopic pieces. This forces it to multiply aggressively.
+3.  The jar should be fully colonized and cloudy with suspended white mycelium in **10 to 14 days**.
+
+## Quality Control
+* Healthy LC should look like small, white clouds or stringy jelly suspended in clear fluid.
+* **Spotting Contamination:** If the fluid itself turns cloudy, milky, or drastically changes color, it is likely bacterial. 
+* **The Final Check:** Visual checks are not enough. You must test the LC on agar (See Phase 4) before using it on grain.

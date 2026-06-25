@@ -9,30 +9,33 @@ This repository contains the complete hardware build notes and sterile workflows
 2. [Consumables and Supplies](docs/02_consumables_and_supplies.md)
 
 ## Phase 2: Hardware Assembly
-3. [Grain and LC Lid Assembly](docs/03_grain_and_lc_lid_assembly.md)
-4. [Fruiting Tub Assembly](docs/04_fruiting_tub_assembly.md)
+3. [Grain Jar Lid Assembly](docs/03_grain_jar_lid_assembly.md)
+4. [Liquid Culture Lid Assembly](docs/04_liquid_culture_lid_assembly.md)
+5. [Fruiting Tub Assembly](docs/05_fruiting_tub_assembly.md)
 
 ## Phase 3: Material Preparation
-5. [PC Calibration Water Test](docs/05_pc_calibration_water_test.md)
-6. [PC Standard Operation](docs/06_pc_standard_operation.md)
-7. [Agar Preparation](docs/07_agar_preparation.md)
-8. [Liquid Culture Preparation](docs/08_liquid_culture_preparation.md)
-9. [Grain Spawn Preparation](docs/09_grain_spawn_preparation.md)
-10. [Bulk Substrate Preparation](docs/10_bulk_substrate_preparation.md)
+6. [PC Calibration Water Test](docs/06_pc_calibration_water_test.md)
+7. [PC Standard Operation](docs/07_pc_standard_operation.md)
+8. [Agar Preparation](docs/08_agar_preparation.md)
+9. [Liquid Culture Preparation](docs/09_liquid_culture_preparation.md)
+10. [Grain Spawn Preparation](docs/10_grain_spawn_preparation.md)
+11. [Bulk Substrate Preparation](docs/11_bulk_substrate_preparation.md)
 
 ## Phase 4: Sterile Operations
-11. [Still Air Box Workflow](docs/11_still_air_box_workflow.md)
-12. [Agar Operations](docs/12_agar_operations.md)
-13. [Liquid Culture Operations](docs/13_liquid_culture_operations.md)
-14. [Grain Spawn Operations](docs/14_grain_spawn_operations.md)
+12. [Still Air Box Workflow](docs/12_still_air_box_workflow.md)
+13. [Agar Operations](docs/13_agar_operations.md)
+14. [Liquid Culture Operations](docs/14_liquid_culture_operations.md)
+15. [Grain Spawn Operations](docs/15_grain_spawn_operations.md)
 
 ## Phase 5: Incubation & Quality Control
-15. [Incubation and Quality Control](docs/15_incubation_and_quality_control.md)
+16. [Agar Incubation](docs/16_agar_incubation.md)
+17. [Liquid Culture Incubation](docs/17_liquid_culture_incubation.md)
+18. [Grain Spawn Incubation](docs/18_grain_spawn_incubation.md)
 
 ## Phase 6: Cultivation
-16. [Spawning to Bulk](docs/16_spawning_to_bulk.md)
-17. [Fruiting Conditions](docs/17_fruiting_conditions.md)
+19. [Spawning to Bulk](docs/19_spawning_to_bulk.md)
+20. [Fruiting Conditions](docs/20_fruiting_conditions.md)
 
 ## Phase 7: Harvest and Genetics
-18. [Harvesting and Drying](docs/18_harvesting_and_drying.md)
-19. [Cloning to Agar](docs/19_cloning_to_agar.md)
+21. [Harvesting and Drying](docs/21_harvesting_and_drying.md)
+22. [Cloning to Agar](docs/22_cloning_to_agar.md)

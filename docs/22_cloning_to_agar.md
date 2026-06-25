@@ -1,4 +1,4 @@
-# 19 - Cloning to Agar
+# 22 - Cloning to Agar
 
 Cloning allows you to replicate the exact genetics of your best, fastest-growing, or largest mushroom. By doing this, you close the loop and never need to purchase spores again.
 
