@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⏱️ 07 - PC Standard Operation</h1>
+  <h1>⏱️ 06 - PC Standard Operation</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

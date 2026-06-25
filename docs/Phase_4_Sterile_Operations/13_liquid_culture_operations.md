@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💧 14 - Liquid Culture Operations</h1>
+  <h1>💧 13 - Liquid Culture Operations</h1>
   <i>Phase 4: Sterile Operations</i>
 </div>
 

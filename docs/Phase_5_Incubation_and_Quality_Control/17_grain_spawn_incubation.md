@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌾 18 - Grain Spawn Incubation</h1>
+  <h1>🌾 17 - Grain Spawn Incubation</h1>
   <i>Phase 5: Incubation & Quality Control</i>
 </div>
 

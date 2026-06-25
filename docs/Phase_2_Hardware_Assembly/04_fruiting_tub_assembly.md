@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧰 05 - Fruiting Tub Assembly</h1>
+  <h1>🧰 04 - Fruiting Tub Assembly</h1>
   <i>Phase 2: Hardware Assembly</i>
 </div>
 

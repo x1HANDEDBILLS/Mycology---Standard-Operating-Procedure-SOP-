@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>❄️ 24 - Long-Term Preservation</h1>
+  <h1>❄️ 23 - Long-Term Preservation</h1>
   <i>Phase 8: Genetics & Preservation</i>
 </div>
 

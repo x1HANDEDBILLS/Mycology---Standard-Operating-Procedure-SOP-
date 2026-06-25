@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌽 10 - Grain Spawn Preparation</h1>
+  <h1>🌽 09 - Grain Spawn Preparation</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

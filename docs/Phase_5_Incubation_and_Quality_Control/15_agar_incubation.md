@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧫 16 - Agar Incubation</h1>
+  <h1>🧫 15 - Agar Incubation</h1>
   <i>Phase 5: Incubation & Quality Control</i>
 </div>
 

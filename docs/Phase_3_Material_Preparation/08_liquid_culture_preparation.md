@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💧 09 - Liquid Culture Preparation</h1>
+  <h1>💧 08 - Liquid Culture Preparation</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💧 17 - Liquid Culture Incubation</h1>
+  <h1>💧 16 - Liquid Culture Incubation</h1>
   <i>Phase 5: Incubation & Quality Control</i>
 </div>
 

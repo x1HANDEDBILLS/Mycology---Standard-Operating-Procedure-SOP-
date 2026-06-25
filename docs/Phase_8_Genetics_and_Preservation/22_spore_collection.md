@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💨 23 - Spore Collection</h1>
+  <h1>💨 22 - Spore Collection</h1>
   <i>Phase 8: Genetics & Preservation</i>
 </div>
 

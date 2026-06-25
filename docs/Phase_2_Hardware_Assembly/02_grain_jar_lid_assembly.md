@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🫙 03 - Grain Jar Lid Assembly</h1>
+  <h1>🫙 02 - Grain Jar Lid Assembly</h1>
   <i>Phase 2: Hardware Assembly</i>
 </div>
 

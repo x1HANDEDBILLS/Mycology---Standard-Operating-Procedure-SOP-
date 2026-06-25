@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧫 22 - Cloning to Agar</h1>
+  <h1>🧫 21 - Cloning to Agar</h1>
   <i>Phase 8: Genetics & Preservation</i>
 </div>
 

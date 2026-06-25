@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🥥 11 - Bulk Substrate Preparation</h1>
+  <h1>🥥 10 - Bulk Substrate Preparation</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

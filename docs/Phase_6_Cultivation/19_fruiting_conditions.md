@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌬️ 20 - Fruiting Conditions</h1>
+  <h1>🌬️ 19 - Fruiting Conditions</h1>
   <i>Phase 6: Cultivation</i>
 </div>
 

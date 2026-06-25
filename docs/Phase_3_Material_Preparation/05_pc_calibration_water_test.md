@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌡️ 06 - PC Calibration & Water Test</h1>
+  <h1>🌡️ 05 - PC Calibration & Water Test</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

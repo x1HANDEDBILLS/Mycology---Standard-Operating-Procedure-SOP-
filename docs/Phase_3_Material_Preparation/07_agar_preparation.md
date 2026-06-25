@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧫 08 - Agar Preparation</h1>
+  <h1>🧫 07 - Agar Preparation</h1>
   <i>Phase 3: Material Preparation</i>
 </div>
 

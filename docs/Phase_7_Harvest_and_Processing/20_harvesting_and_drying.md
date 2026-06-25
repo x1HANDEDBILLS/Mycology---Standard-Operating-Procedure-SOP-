@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍄 21 - Harvesting and Drying</h1>
+  <h1>🍄 20 - Harvesting and Drying</h1>
   <i>Phase 7: Harvest & Processing</i>
 </div>
 
