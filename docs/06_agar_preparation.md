@@ -24,4 +24,4 @@
 
 ## Cooling
 1.  Remove and place on the magnetic stirrer on **low**. (Stirring too vigorously will create bubbles and ugly pours).
-2.  Agar is ready to pour when it cools to **120F** (or when you can comfortably hold the bottle bare-handed for 30 seconds).
+2.  Agar is ready to pour when it cools to **120°F** (or when you can comfortably hold the bottle bare-handed for 30 seconds).

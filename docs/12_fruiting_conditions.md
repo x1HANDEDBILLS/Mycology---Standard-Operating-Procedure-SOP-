@@ -3,7 +3,7 @@
 ## Environment
 * **Location:** A darkish area (like a closet) is perfect. 
 * **Lighting:** Mushrooms do not need light to grow, but a small LED placed above them gives them a direction to grow toward.
-* **Temperature:** Keep between **70F to 80F** (72F to 74F is ideal).
+* **Temperature:** Keep between **70°F to 80°F** (72°F to 74°F is ideal).
 * **Airflow:** Ensure no fans or air currents are directly blowing on the tubs, as this causes them to dry out too quickly.
 
 ## Maintenance

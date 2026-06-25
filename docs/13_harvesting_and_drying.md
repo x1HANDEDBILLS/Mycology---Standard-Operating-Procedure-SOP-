@@ -10,7 +10,7 @@
 
 ## Drying
 1.  Place the cleaned mushrooms onto your dehydrator trays. Ensure they are not overlapping to allow for maximum airflow.
-2.  Set the dehydrator temperature between **125F and 165F**. (Lower temps take longer but are safer for preserving active compounds; higher temps are faster).
+2.  Set the dehydrator temperature between **125°F and 165°F**. (Lower temps take longer but are safer for preserving active compounds; higher temps are faster).
 3.  Run the dehydrator for 12 to 24 hours.
 4.  **The Cracker Test:** The mushrooms are completely dry when the thickest part of the stem snaps immediately like a dry cracker when bent. If it bends or feels spongy at all, put it back in the dehydrator.
 5.  Store cracker-dry product in airtight glass mason jars with desiccant packets in a cool, dark place.
