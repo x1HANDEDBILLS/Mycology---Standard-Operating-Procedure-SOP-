@@ -2,7 +2,7 @@
 
 ## Layout Options
 * **Filter Only:** If using cheaper filter patches, drill 2 air exchange holes and use 2 patches. If using name-brand Microppose filters, 1 filter is all that is needed.
-* **Filter + Injection Port:** Use 2 filters and an injection port in a triangle pattern. (Injection ports are only needed if planning to use liquid culture syringes).
+* **Filter + Injection Port:** Use 2 filters and an injection port in a triangle pattern. (Injection ports are highly recommended for liquid culture and spore syringe work).
 
 ## Drilling Procedure
 1.  Screw a lid onto a jar for stability.

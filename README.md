@@ -13,16 +13,21 @@ This repository contains the complete hardware build notes and sterile workflows
 4. [Fruiting Tub Assembly](docs/04_fruiting_tub_assembly.md)
 
 ## Phase 3: Material Preparation
-5. [Pressure Cooker Operation](docs/05_pressure_cooker_operation.md)
-6. [Agar Preparation](docs/06_agar_preparation.md)
-7. [Grain Spawn Preparation](docs/07_grain_spawn_preparation.md)
-8. [Bulk Substrate Preparation](docs/08_bulk_substrate_preparation.md)
+5. [PC Calibration Water Test](docs/05_pc_calibration_water_test.md)
+6. [PC Standard Operation](docs/06_pc_standard_operation.md)
+7. [Agar Preparation](docs/07_agar_preparation.md)
+8. [Liquid Culture Preparation](docs/08_liquid_culture_preparation.md)
+9. [Grain Spawn Preparation](docs/09_grain_spawn_preparation.md)
+10. [Bulk Substrate Preparation](docs/10_bulk_substrate_preparation.md)
 
 ## Phase 4: Sterile Operations
-9. [Still Air Box Workflow](docs/09_still_air_box_workflow.md)
-10. [Inoculation Procedures](docs/10_inoculation_procedures.md)
+11. [Still Air Box Workflow](docs/11_still_air_box_workflow.md)
+12. [Liquid Culture Operations](docs/12_liquid_culture_operations.md)
+13. [Inoculation Procedures](docs/13_inoculation_procedures.md)
 
-## Phase 5: Cultivation and Harvest
-11. [Spawning to Bulk](docs/11_spawning_to_bulk.md)
-12. [Fruiting Conditions](docs/12_fruiting_conditions.md)
-13. [Harvesting and Drying](docs/13_harvesting_and_drying.md)
+## Phase 5: Cultivation
+14. [Spawning to Bulk](docs/14_spawning_to_bulk.md)
+15. [Fruiting Conditions](docs/15_fruiting_conditions.md)
+
+## Phase 6: Harvest and Processing
+16. [Harvesting and Drying](docs/16_harvesting_and_drying.md)

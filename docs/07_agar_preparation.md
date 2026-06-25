@@ -1,4 +1,4 @@
-# 06 - Agar Preparation
+# 07 - Agar Preparation
 
 *Note: This recipe is scaled for a 500ml media bottle, filling it to 400ml to make pouring easier.*
 

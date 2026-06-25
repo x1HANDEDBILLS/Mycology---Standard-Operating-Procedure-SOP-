@@ -1,4 +1,4 @@
-# 13 - Harvesting and Drying
+# 16 - Harvesting and Drying
 
 *Note: This is a standard baseline protocol. Edit these settings based on your specific dehydrator model.*
 

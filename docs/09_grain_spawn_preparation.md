@@ -1,4 +1,4 @@
-# 07 - Grain Spawn Preparation
+# 09 - Grain Spawn Preparation
 
 *Recipe yields exactly 6 Quart jars.*
 

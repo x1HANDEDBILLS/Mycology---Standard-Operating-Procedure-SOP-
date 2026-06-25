@@ -1,4 +1,4 @@
-# 08 - Bulk Substrate Preparation
+# 10 - Bulk Substrate Preparation
 
 *Using FloraFlex loose fill coco coir (already fluffy out of the bag).*
 
