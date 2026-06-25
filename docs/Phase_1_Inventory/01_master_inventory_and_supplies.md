@@ -6,9 +6,12 @@
 ---
 
 > [!TIP]
-> This is your complete laboratory shopping list. It is organized by functional area so you know exactly which parts belong together. An oven burner and drill are assumed as common household items.
+> **The Shopping List:** This is your complete laboratory manifest, organized by functional area so you know exactly which parts belong together. *(An oven burner and standard power drill are assumed as common household items).*
 
-### 🏭 Main Equipment & Environment Control
+<br>
+
+## **🏭 Main Equipment & Environment Control**
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Pressure Cooker** | [Amazon ($125)](https://a.co/d/j53a9h3) <br> Walmart ($90) - Cheaper <br> *Get the 23Qt version if available!* | `$90 - $125` |
@@ -17,16 +20,22 @@
 | **Dehydrator** | [Amazon ($250)](https://a.co/d/bMEWn0t) <br> *(Overkill but highly recommended)* | `$250` |
 | **Milligram Scale** | [Amazon ($18.99)](https://a.co/d/06oHd8TC) - 0.001g Precision | `$19` |
 
-### 💉 Syringes & Needles
+<br>
+
+## **💉 Syringes & Needles**
 *The sterile transport tools for moving LC and spores.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Syringes (No Needle)** | [10ml 100-Pack ($18.99)](https://a.co/d/0fTm8chi) <br> [30ml 50-Pack ($19.99)](https://a.co/d/04lXfmeO) | `$19 - $20` |
 | **Syringes (w/ Needles)** | [20ml 20-Pack ($9.99)](https://a.co/d/00VKdUnr) | `$10` |
 | **Needles** | [16G 1.5" 150-Pack ($7.99)](https://a.co/d/0gtlVYno) <br> [16G 5" Extra Long ($6.50)](https://a.co/d/0jk922LS) | `$7 - $8` |
 
-### 💧 Advanced Liquid Culture System
+<br>
+
+## **💧 Advanced Liquid Culture System**
 *Everything required to build, operate, and extract from a commercial-grade, closed-loop LC manifold.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Magnetic Stirrer** | [ONiLAB Standard ($35.99)](https://a.co/d/00ic6vHP) <br> [ONiLAB Large 7" ($39.99)](https://a.co/d/0blU70bE) | `$35 - $40` |
@@ -40,8 +49,11 @@
 | **Luer Adapters (Barbs)** | [Male Barb 25x ($12.06)](https://a.co/d/05auiGRh) <br> [Female Barb 25x ($13.21)](https://a.co/d/0fnJBOQa) | `$12 - $13` |
 | **Stopcocks** | [2-Way Luer 6pcs ($9.90)](https://a.co/d/0fgj80GO) | `$10` |
 
-### 🫙 Grain Jar Modification Supplies
+<br>
+
+## **🫙 Grain Jar Modification Supplies**
 *Hardware specifically for creating high-airflow lids for grain spawn.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Mason Jars** | Quart Jars Box of 12 ($16) - Walmart | `$16` |
@@ -50,16 +62,22 @@
 | **Injection Ports** | [Microppose Self Healing ($9.89)](https://a.co/d/08NyJCOP) <br> [Amazon Standard ($7)](https://a.co/d/5wEVesF) | `$7 - $10` |
 | **Standard Drill Bits** | [1/4-Inch Bit ($2)](https://a.co/d/g4bTnsF) <br> [7/16-Inch Bit ($5)](https://a.co/d/38MjQng) | `$2 - $5` |
 
-### 🧰 Fruiting Tub Hardware
+<br>
+
+## **🧰 Fruiting Tub Hardware**
 *Hardware specifically for modifying bins for fruiting conditions.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Fruiting Tub** | Walmart ($8) - Sterilite 27 Qt <br> [Amazon 4-Pack ($79.99)](https://a.co/d/04SNM4Df) - IRIS 32 Qt WeatherPro | `$8 - $80` |
 | **Tub Filters** | [Microppose Monotub Disks ($8.99)](https://a.co/d/04rrLJjG) | `$9` |
 | **Step Drill Bits** | [Amazon Standard ($7.99)](https://a.co/d/04CqA56Y) <br> [Amazon Large 2" ($29.95)](https://a.co/d/08NUuZLs) | `$8 - $30` |
 
-### 🧫 Agar Operations
+<br>
+
+## **🧫 Agar Operations**
 *Everything required to pour, mix, and transfer 2D agar plates.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Agar Powder** | [Amazon ($9.99)](https://a.co/d/0eMxpvwk) | `$10` |
@@ -72,8 +90,11 @@
 | **Tweezers** | [Amazon ($5)](https://a.co/d/hjM0L3o) | `$5` |
 | **Propane Torch** | Walmart ($10) - Coleman 16oz | `$10` |
 
-### 🌾 Grain Spawn & Bulk Substrate
+<br>
+
+## **🌾 Grain Spawn & Bulk Substrate**
 *Raw materials and processing gear for grain and coco coir.*
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Popcorn** | Walmart ($2/bag) <br> *(2 Bags is about $5)* | `$5` |
@@ -84,7 +105,10 @@
 | **Strainers** | Walmart ($10) <br> *(Recommend buying 2 just in case)* | `$10` |
 | **Standard/Fine Sprayer** | [Amazon ($15) - Fine Mist & Alcohol](https://a.co/d/a3TlJiL) | `$15` |
 
-### 🧼 Personal Protective Equipment (PPE) & Cleaners
+<br>
+
+## **🧼 Personal Protective Equipment (PPE) & Cleaners**
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Isopropyl Alcohol** | Walmart ($3) - 70% Concentration ONLY | `$3` |
@@ -93,7 +117,10 @@
 | **Heat Gloves** | [ANBOSON BBQ Gloves ($19.27)](https://a.co/d/02SPdTyV) *(For hot PC handling)* | `$19` |
 | **Arm Sleeves** | [Amazon ($7)](https://a.co/d/htLFEHT) *(Optional)* | `$7` |
 
-### 🧪 Long-Term Storage & Kits
+<br>
+
+## **🧪 Long-Term Storage & Kits**
+
 | Item | Links & Sourcing | Est. Cost |
 | :--- | :--- | :--- |
 | **Storage Vials** | [Ks-Tek 10ml Self Healing ($8.79)](https://a.co/d/07AEylW9) | `$9` |

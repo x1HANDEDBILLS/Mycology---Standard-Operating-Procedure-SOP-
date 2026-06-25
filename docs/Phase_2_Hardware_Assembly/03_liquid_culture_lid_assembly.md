@@ -6,24 +6,33 @@
 ---
 
 > [!IMPORTANT]
-> Liquid culture requires a completely sealed, waterproof environment that allows for pressure equalization during the sterilization cook, and sterile extraction of the fluid later on.
+> **The Goal:** Liquid culture requires a completely sealed, waterproof environment that allows for pressure equalization during the sterilization cook, and safe sterile extraction of the fluid later on.
 
-### 📐 Layout Requirements
-Every single Liquid Culture lid **must** have exactly one filter patch (for pressure equalization) and exactly one self-healing injection port (for syringe extraction).
+<br>
 
-### 🛠️ Drilling Procedure
-1. Screw a metal lid onto an empty jar for stability.
+## **📐 Layout Requirements**
+
+Every single Liquid Culture lid **must** have exactly **one** filter patch (for pressure equalization) and exactly **one** self-healing injection port (for syringe extraction).
+
+<br>
+
+## **🛠️ Drilling Procedure**
+
+1. Screw a lid onto an empty jar for absolute stability.
 2. Drill a **1/4-inch hole** for the filter patch.
 3. Drill a **7/16-inch hole** for the injection port.
 
 > [!WARNING]
 > Keep the holes evenly spaced and ensure the center of the holes are at least **3/4 of an inch away from the edge** of the lid to guarantee a perfect silicone seal against the glass rim.
 
-### 🧩 Assembly
+<br>
+
+## **🧩 Assembly**
+
 1. Clean the drilled holes of any sharp burrs using an Exacto blade.
-2. Wash the lid to remove all debris and let it dry completely.
-3. Push the self-healing injection port into the 7/16-inch hole. Make sure it forms a tight, perfect seal so no liquid or air can escape around the rubber edges.
-4. Apply the adhesive filter patch flatly over the 1/4-inch hole.
+2. Wash the lid to remove all debris and let it dry **completely**.
+3. Push the self-healing injection port into the **7/16-inch hole**. Make sure it forms a tight, perfect seal so no liquid or air can escape around the rubber edges.
+4. Apply the **0.22um** adhesive filter patch flatly over the **1/4-inch hole**.
 
 <br>
 
